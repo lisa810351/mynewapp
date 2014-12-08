@@ -3,7 +3,7 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.phonegap.MyNtutNewApp_102AC2023"
+        id        = "com.phonegap.MyNtutNewApp_102AC2023lisa810351"
         version   = "1.0.0">
 
     <name>Magic Ball</name>
